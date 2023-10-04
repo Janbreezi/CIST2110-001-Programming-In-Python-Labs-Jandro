@@ -1,5 +1,5 @@
 # Lab1
-# Author: Greg Walsh
+# Author: Alejandro Canas
 
 
 # 1. Uncomment the following print statement and run the program. Show the output to your instructor.

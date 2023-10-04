@@ -47,7 +47,6 @@ print("| Days in a Year: " + str(days_in_a_year) + "            |")
 print("| Days Alive: " + str(days_alive) + "               |" )
 print("| Days Alive in Dog Years: " + str(days_alive_in_dog_years) + " |")
 print("==================================")
-
 """
 Make it look pretty as well as informative. Use the following format:
 ==================================
