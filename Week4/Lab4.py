@@ -1,7 +1,7 @@
 # Lab3
 # Author: Alejandro Canas
 # Lab4
-# Author: 
+# Author: Alejandro Canas
 
 """_summary_
 This lab is designed to get you familiar with Python Boolean Expressions, Conditional Expressions, if-elif-else statements, and while / for loops.
